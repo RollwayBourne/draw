@@ -1,149 +1,176 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T10:04:40.525Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="79wSmHYkWA8q3Jku_VOY" version="14.7.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-13T13:52:48.846Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="MmxQ2AVcbAnQ0FAwVVGT" version="14.7.7" type="github">
   <diagram id="mXL_hT3lJOxDt4WdNcI8" name="Page-1">
-    <mxGraphModel dx="1038" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1138" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-1" target="KMiZhZzG1fysnHMmIbVh-4">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-1" target="KMiZhZzG1fysnHMmIbVh-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-1" value="传统spmvc" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-1" value="传统spmvc" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-4" target="KMiZhZzG1fysnHMmIbVh-7">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-4" target="KMiZhZzG1fysnHMmIbVh-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-4" value="DispatcherServlet" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-4" value="DispatcherServlet" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-6" value="请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-6" value="请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="180" y="100" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-7" target="KMiZhZzG1fysnHMmIbVh-11">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-7" target="KMiZhZzG1fysnHMmIbVh-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-7" target="KMiZhZzG1fysnHMmIbVh-13">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-7" target="KMiZhZzG1fysnHMmIbVh-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-7" value="HandlerMapping" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-7" value="HandlerMapping" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-11" target="KMiZhZzG1fysnHMmIbVh-15">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-11" target="KMiZhZzG1fysnHMmIbVh-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-11" target="KMiZhZzG1fysnHMmIbVh-17">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-11" target="KMiZhZzG1fysnHMmIbVh-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-11" value="HandlerAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-11" value="HandlerAdapter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-13" target="KMiZhZzG1fysnHMmIbVh-25">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-13" target="KMiZhZzG1fysnHMmIbVh-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-13" value="&lt;div&gt;public interface HandlerMapping {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; //找到与请求对应的 Handler，封装为一个 HandlerExecutionChain 返回&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &lt;b&gt;&amp;nbsp;HandlerExecutionChain&lt;/b&gt; getHandler(HttpServletRequest request) throws Exception;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-13" value="&lt;div&gt;public interface HandlerMapping {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; //找到与请求对应的 Handler，封装为一个 HandlerExecutionChain 返回&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; &lt;b&gt;&amp;nbsp;HandlerExecutionChain&lt;/b&gt; getHandler(HttpServletRequest request) throws Exception;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="-80" width="475" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-15" value="&lt;div&gt;public interface HandlerAdapter {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; //针对给定的请求/响应对象调用目标 Handler&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; ModelAndView handle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-15" value="&lt;div&gt;public interface HandlerAdapter {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; //针对给定的请求/响应对象调用目标 Handler&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; ModelAndView handle(HttpServletRequest request, HttpServletResponse response, Object handler) throws Exception;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="375" y="210" width="650" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-17" value="ModelAndView" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-17" value="ModelAndView" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-22" target="KMiZhZzG1fysnHMmIbVh-23">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-22" target="KMiZhZzG1fysnHMmIbVh-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-22" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;webFlux&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-22" value="&lt;div style=&quot;&quot;&gt;&lt;span&gt;webFlux&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="40" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-23" target="KMiZhZzG1fysnHMmIbVh-27">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-23" target="KMiZhZzG1fysnHMmIbVh-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-23" value="DispatcherHandler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-23" value="DispatcherHandler" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-25" value="&lt;div&gt;public class HandlerExecutionChain {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private final Object handler;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private final List&amp;lt;HandlerInterceptor&amp;gt; interceptorList;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private int interceptorIndex;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-25" value="&lt;div&gt;public class HandlerExecutionChain {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private final Object handler;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private final List&amp;lt;HandlerInterceptor&amp;gt; interceptorList;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; private int interceptorIndex;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="300" y="-220" width="400" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-27" target="KMiZhZzG1fysnHMmIbVh-30">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-27" target="KMiZhZzG1fysnHMmIbVh-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-27" target="KMiZhZzG1fysnHMmIbVh-34">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-27" target="KMiZhZzG1fysnHMmIbVh-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-27" value="&lt;span&gt;HandlerMapping&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-27" value="&lt;span&gt;HandlerMapping&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-30" target="KMiZhZzG1fysnHMmIbVh-36">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-30" target="KMiZhZzG1fysnHMmIbVh-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-30" target="KMiZhZzG1fysnHMmIbVh-40">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-30" target="KMiZhZzG1fysnHMmIbVh-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-30" value="&lt;span&gt;HandlerAdapter&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-30" value="&lt;span&gt;HandlerAdapter&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-34" value="&lt;div&gt;public interface HandlerMapping&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; Mono&amp;lt;Object&amp;gt; getHandler(ServerWebExchange exchange);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-34" value="&lt;div&gt;public interface HandlerMapping&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; Mono&amp;lt;Object&amp;gt; getHandler(ServerWebExchange exchange);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="320" y="390" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-36" target="KMiZhZzG1fysnHMmIbVh-38">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-36" target="KMiZhZzG1fysnHMmIbVh-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-36" value="&lt;div&gt;public interface HandlerAdapter {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;HandlerResult&amp;gt; handle(ServerWebExchange exchange, Object handler);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-36" value="&lt;div&gt;public interface HandlerAdapter {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;HandlerResult&amp;gt; handle(ServerWebExchange exchange, Object handler);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="476.25" y="620" width="447.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-38" value="&lt;div&gt;public interface ServerWebExchange {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ServerHttpRequest getRequest();&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ServerHttpResponse getResponse();&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; Map&amp;lt;String, Object&amp;gt; getAttributes();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-38" value="&lt;div&gt;public interface ServerWebExchange {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ServerHttpRequest getRequest();&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; ServerHttpResponse getResponse();&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; Map&amp;lt;String, Object&amp;gt; getAttributes();&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="580" y="740" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-40" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;HandlerResult&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-40" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;HandlerResult&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-43" value="基于servlet协议，bio，因为不知道数据何时就绪，为每一个socket创建一个线程，使得线程可以在read()中阻塞，直到数据就绪完毕。实际上每个阻塞的线程充当了socket监视器，将java虚拟机的线程调度充当了通知机制。在高并发的场景下，将无线程可用，使得后续的请求阻塞在等待线程空余上。同时工作线程的大部分时间都浪费在阻塞上，cpu的能力没有得到有效发挥。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-43" value="基于servlet协议，bio，因为不知道数据何时就绪，为每一个socket创建一个线程，使得线程可以在read()中阻塞，直到数据就绪完毕。实际上每个阻塞的线程充当了socket监视器，将java虚拟机的线程调度充当了通知机制。在高并发的场景下，将无线程可用，使得后续的请求阻塞在等待线程空余上。同时工作线程的大部分时间都浪费在阻塞上，cpu的能力没有得到有效发挥。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1121" y="85" width="450" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-45" value="非阻塞异步框架，基于io多路复用，将多个io通道交给Selector处理，工作线程只需要在有io就绪时进行处理即可，大大提高吞吐量。但传统的jdbc与webflux将不在契合，传统的jdbc是bio，没有nio实现. 使用spring data提供的r2dbc或Mongodb,redis等非关系型数据库可支持解决这个问题。已支持的关系型数据为有pg.h2,mssql,mysql等。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-45" value="非阻塞异步框架，基于io多路复用，将多个io通道交给Selector处理，工作线程只需要在有io就绪时进行处理即可，大大提高吞吐量。但传统的jdbc与webflux将不在契合，传统的jdbc是bio，没有nio实现. 使用spring data提供的r2dbc或Mongodb,redis等非关系型数据库可支持解决这个问题。已支持的关系型数据为有pg.h2,mssql,mysql等。" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1121" y="485" width="469" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-47" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-47" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="800" y="880" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-49" target="KMiZhZzG1fysnHMmIbVh-50">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-49" target="KMiZhZzG1fysnHMmIbVh-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-49" value="注解式开发构建webflux服务" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-49" value="注解式开发构建webflux服务" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="1050" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-50" value="&lt;div&gt;@RestController&lt;/div&gt;&lt;div&gt;public class HelloController {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; @GetMapping(&quot;/&quot;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public Mono&amp;lt;String&amp;gt; hello() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; return Mono.just(&quot;Hello World!&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-50" value="&lt;div&gt;@RestController&lt;/div&gt;&lt;div&gt;public class HelloController {&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; @GetMapping(&quot;/&quot;)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; public Mono&amp;lt;String&amp;gt; hello() {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; return Mono.just(&quot;Hello World!&quot;);&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; }&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="330" y="1010" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-52" value="函数式编程构建webflux服务" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-52" value="函数式编程构建webflux服务" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="20" y="1240" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-53" value="&lt;b&gt;ServerRequest&lt;br&gt;&lt;/b&gt;Mono&amp;lt;Order&amp;gt; order = request.bodyToMono(Order.class)&amp;nbsp; 内部调用&lt;br&gt;Mono&amp;lt;Order&amp;gt; body=request.body(BodyExtractors.toMono(Order.class));" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-53" value="&lt;b&gt;ServerRequest&lt;br&gt;&lt;/b&gt;Mono&amp;lt;Order&amp;gt; order = request.bodyToMono(Order.class)&amp;nbsp; 内部调用&lt;br&gt;Mono&amp;lt;Order&amp;gt; body=request.body(BodyExtractors.toMono(Order.class));" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="1240" width="410" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-57" value="&lt;b&gt;ServerResponse&lt;/b&gt;&lt;br&gt;&lt;div&gt;ServerResponse.ok().contentType(MediaType.APPLICATION_JSON)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .body(BodyInserters.fromValue(new Order()));&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-57" value="&lt;b&gt;ServerResponse&lt;/b&gt;&lt;br&gt;&lt;div&gt;ServerResponse.ok().contentType(MediaType.APPLICATION_JSON)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; .body(BodyInserters.fromValue(new Order()));&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="1340" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-58" value="&lt;b&gt;HandlerFunction&lt;/b&gt;&lt;br&gt;&lt;div&gt;@FunctionalInterface&lt;/div&gt;&lt;div&gt;public interface HandlerFunction&amp;lt;T extends ServerResponse&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;T&amp;gt; handle(ServerRequest var1);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div style=&quot;font-weight: bold&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="PuQ9t5COlBX9batZbNy5-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-58" target="PuQ9t5COlBX9batZbNy5-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-58" value="&lt;b&gt;HandlerFunction&lt;/b&gt;&lt;br&gt;&lt;div&gt;@FunctionalInterface&lt;/div&gt;&lt;div&gt;public interface HandlerFunction&amp;lt;T extends ServerResponse&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;T&amp;gt; handle(ServerRequest var1);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div style=&quot;font-weight: bold&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="230" y="1420" width="410" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-59" target="KMiZhZzG1fysnHMmIbVh-60">
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KMiZhZzG1fysnHMmIbVh-59" target="KMiZhZzG1fysnHMmIbVh-60" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-59" value="&lt;b&gt;RouterFunction&lt;/b&gt;&lt;br&gt;&lt;div&gt;@FunctionalInterface&lt;/div&gt;&lt;div&gt;public interface RouterFunction&amp;lt;T extends ServerResponse&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;HandlerFunction&amp;lt;T&amp;gt;&amp;gt; route(ServerRequest var1);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1540" width="410" height="90" as="geometry" />
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-59" value="&lt;b&gt;RouterFunction&lt;/b&gt;&lt;br&gt;&lt;div&gt;@FunctionalInterface&lt;/div&gt;&lt;div&gt;public interface RouterFunction&amp;lt;T extends ServerResponse&amp;gt; {&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; Mono&amp;lt;HandlerFunction&amp;lt;T&amp;gt;&amp;gt; route(ServerRequest var1);&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="230" y="1661.25" width="410" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-60" target="KMiZhZzG1fysnHMmIbVh-63">
+        <mxCell id="PuQ9t5COlBX9batZbNy5-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KMiZhZzG1fysnHMmIbVh-60" target="KMiZhZzG1fysnHMmIbVh-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-60" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;jetbrains mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px&quot;&gt;&lt;b&gt;RouterFunctions&lt;/b&gt;.route(RequestPredicates.GET(&quot;/hello&quot;)&lt;br&gt;	.and(RequestPredicates.accept(MediaType.APPLICATION_JSON))&lt;br&gt;        ,helloWorldFunctionHandler);&lt;/span&gt;&lt;/font&gt;&lt;font color=&quot;#080808&quot; face=&quot;jetbrains mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 9.8pt&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font face=&quot;jetbrains mono, monospace&quot;&gt;&lt;span style=&quot;font-size: 13.0667px&quot;&gt;//可通过RouterFunctions将条件谓词与处理方法HandlerFunction绑定&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1680" width="430" height="80" as="geometry" />
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-60" value="&lt;pre style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;pre style=&quot;color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #9e880d&quot;&gt;@Bean&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;public &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;RouterFunction &lt;/span&gt;&lt;span style=&quot;color: #00627a&quot;&gt;routerOrder&lt;/span&gt;(&lt;span style=&quot;color: #000000&quot;&gt;HelloWorldFunctionHandler &lt;/span&gt;helloWorldFunctionHandler){&lt;br&gt;    &lt;span style=&quot;color: #0033b3&quot;&gt;return &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;RouterFunctions&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;route&lt;/span&gt;(&lt;span style=&quot;color: #000000&quot;&gt;RequestPredicates&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;POST&lt;/span&gt;(&lt;span style=&quot;color: #067d17&quot;&gt;&quot;/hello&quot;&lt;/span&gt;)&lt;br&gt;                    .and(&lt;span style=&quot;color: #000000&quot;&gt;RequestPredicates&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;accept&lt;/span&gt;(&lt;span style=&quot;color: #000000&quot;&gt;MediaType&lt;/span&gt;.&lt;span style=&quot;color: #871094 ; font-style: italic&quot;&gt;APPLICATION_JSON&lt;/span&gt;))&lt;br&gt;            ,helloWorldFunctionHandler)&lt;br&gt;            .andRoute(&lt;span style=&quot;color: #000000&quot;&gt;RequestPredicates&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;POST&lt;/span&gt;(&lt;span style=&quot;color: #067d17&quot;&gt;&quot;saySomething&quot;&lt;/span&gt;)&lt;br&gt;                    ,helloWorldFunctionHandler::saySomething);&lt;br&gt;}&lt;/pre&gt;&lt;pre style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;//通过谓词绑定functionhandler&lt;/pre&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="730" y="1620" width="570" height="172.5" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-62" value="实现" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="450" y="1650" width="40" height="20" as="geometry" />
+        <mxCell id="KMiZhZzG1fysnHMmIbVh-63" value="&lt;div&gt;&lt;b&gt;DefaultRouterFunction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;public Mono&amp;lt;HandlerFunction&amp;lt;T&amp;gt;&amp;gt; route(ServerRequest request) {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; if (this.predicate.test(request)) {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; return Mono.just(this.handlerFunction);&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;} else {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; return Mono.empty();&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="800" y="1831.25" width="430" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="KMiZhZzG1fysnHMmIbVh-63" value="&lt;div&gt;&lt;b&gt;DefaultRouterFunction&lt;/b&gt;&lt;/div&gt;&lt;div&gt;public Mono&amp;lt;HandlerFunction&amp;lt;T&amp;gt;&amp;gt; route(ServerRequest request) {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; if (this.predicate.test(request)) {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; return Mono.just(this.handlerFunction);&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;} else {&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp; return Mono.empty();&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="220" y="1790" width="430" height="150" as="geometry" />
+        <mxCell id="PuQ9t5COlBX9batZbNy5-1" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #9e880d&quot;&gt;@Configuration&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;public class &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;HelloWorldFunctionHandler &lt;/span&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;implements &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;HandlerFunction&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: #000000&quot;&gt;ServerResponse&lt;/span&gt;&amp;gt; {&lt;br&gt;    &lt;span style=&quot;color: #9e880d&quot;&gt;@Override&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;color: #9e880d&quot;&gt;    &lt;/span&gt;&lt;span style=&quot;color: #0033b3&quot;&gt;public &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;Mono&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: #000000&quot;&gt;ServerResponse&lt;/span&gt;&amp;gt; &lt;span style=&quot;color: #00627a&quot;&gt;handle&lt;/span&gt;(&lt;span style=&quot;color: #000000&quot;&gt;ServerRequest &lt;/span&gt;serverRequest) {&lt;br&gt;        &lt;span style=&quot;color: #0033b3&quot;&gt;return &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;ServerResponse&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;ok&lt;/span&gt;().contentType(&lt;span style=&quot;color: #000000&quot;&gt;MediaType&lt;/span&gt;.&lt;span style=&quot;color: #871094 ; font-style: italic&quot;&gt;APPLICATION_JSON&lt;/span&gt;)&lt;br&gt;                .body(&lt;span style=&quot;color: #000000&quot;&gt;BodyInserters&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;fromValue&lt;/span&gt;(&lt;span style=&quot;color: #067d17&quot;&gt;&quot;hello world~&quot;&lt;/span&gt;));&lt;br&gt;    }&lt;br&gt;    &lt;span style=&quot;color: #0033b3&quot;&gt;public &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;Mono&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: #000000&quot;&gt;ServerResponse&lt;/span&gt;&amp;gt; &lt;span style=&quot;color: #00627a&quot;&gt;saySomething&lt;/span&gt;(&lt;span style=&quot;color: #000000&quot;&gt;ServerRequest &lt;/span&gt;serverRequest) {&lt;br&gt;        &lt;span style=&quot;color: #0033b3&quot;&gt;return &lt;/span&gt;&lt;span style=&quot;color: #000000&quot;&gt;ServerResponse&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;ok&lt;/span&gt;().contentType(&lt;span style=&quot;color: #000000&quot;&gt;MediaType&lt;/span&gt;.&lt;span style=&quot;color: #871094 ; font-style: italic&quot;&gt;APPLICATION_JSON&lt;/span&gt;)&lt;br&gt;                .body(&lt;span style=&quot;color: #000000&quot;&gt;BodyInserters&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;fromValue&lt;/span&gt;(&lt;span style=&quot;color: #067d17&quot;&gt;&quot;say something&quot;&lt;/span&gt;));&lt;br&gt;    }&lt;br&gt;}&lt;br&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1368.13" width="540" height="203.75" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-4" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2030" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-6" value="非阻塞跨服务调用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PuQ9t5COlBX9batZbNy5-7" target="PuQ9t5COlBX9batZbNy5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-7" value="&lt;b&gt;WebClient&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="2200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PuQ9t5COlBX9batZbNy5-8" target="PuQ9t5COlBX9batZbNy5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-8" value="&lt;pre style=&quot;background-color: #ffffff ; color: #080808 ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;&lt;span style=&quot;color: #000000&quot;&gt;WebClient&lt;/span&gt;.&lt;span style=&quot;font-style: italic&quot;&gt;create&lt;/span&gt;(&lt;span style=&quot;color: #067d17&quot;&gt;&quot;http://localhost:9081/user/getUserInfo&quot;&lt;/span&gt;);&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2200" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-11" value="创建" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="2200" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PuQ9t5COlBX9batZbNy5-12" value="&lt;div&gt;//内部调用Builder&amp;nbsp; 返回&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; color: rgb(8 , 8 , 8) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace ; font-size: 9.8pt&quot;&gt;DefaultWebClientBuilder()对象&lt;/span&gt;&lt;/div&gt;&lt;div&gt;WebClient webClient = WebClient.builder()&lt;/div&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;div&gt;.baseUrl(&quot;localhost:8080/order/{id}&quot;)&lt;/div&gt;&lt;div&gt;.defaultHeader(HttpHeaders.CONTENT_TYPE,&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;MediaType.APPLICATION_JSON_VALUE)&lt;/div&gt;&lt;div&gt;.build();&lt;/div&gt;&lt;/blockquote&gt;" style="whiteSpace=wrap;html=1;rounded=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="390" y="2300" width="420" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
