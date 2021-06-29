@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-29T11:34:12.842Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="F_hamJkPggOTwhQjuTKD" version="14.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-29T12:46:05.859Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="D5J68-jZv6ycyo2Joqdw" version="14.8.0" type="github">
   <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
-    <mxGraphModel dx="2138" dy="2324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2321" dy="2434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -167,105 +167,96 @@
           <mxGeometry x="940" y="1210" width="100" height="35" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-140" y="-1200" width="550" height="570" as="geometry" />
+          <mxGeometry x="-100" y="-1240" width="500" height="600" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--2" value="解密A" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-1150" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-1210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--5" value="短信校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-1070" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-1130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--6" value="滑块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-1070" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-1130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--7" value="解密B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1150" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="-1210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--8" value="PACAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-1150" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-1210" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--9" value="jzkApp/jzkWeb" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-910" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--10" value="指纹" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-990" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-1050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--11" value="可信设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-990" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-1050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--12" value="短信发起" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-1070" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="-1130" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--16" value="手势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-990" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="-1050" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--17" value="发放短信token" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-910" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="-970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--18" value="发放sessionToken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-910" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--20" value="短信token校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-830" width="100" height="50" as="geometry" />
+          <mxGeometry x="90" y="-890" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--21" value="内部token续期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-830" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-890" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--22" value="sessionToken校验" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-830" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-890" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--23" value="&lt;font style=&quot;font-size: 19px&quot;&gt;Conponents/Handlers&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="20" y="-1260" width="200" height="20" as="geometry" />
+          <mxGeometry x="30" y="-1320" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--24" value="JzkParamsExtract" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="-750" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--25" value="新密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-750" width="100" height="50" as="geometry" />
+          <mxGeometry x="-40" y="-810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--26" value="TAIL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-750" width="100" height="50" as="geometry" />
+          <mxGeometry x="220" y="-810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--27" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="-1200" width="210" height="570" as="geometry" />
+          <mxGeometry x="715" y="-1240" width="210" height="600" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--28" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Conditions&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="745" y="-1260" width="110" height="20" as="geometry" />
+          <mxGeometry x="765" y="-1320" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--29" value="PACAS校验成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="-1070" width="100" height="50" as="geometry" />
+          <mxGeometry x="780" y="-1070" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--30" value="可信设备校验成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="-990" width="100" height="50" as="geometry" />
+          <mxGeometry x="780" y="-990" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--32" value="默认执行" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="755" y="-1150" width="100" height="50" as="geometry" />
+          <mxGeometry x="780" y="-1150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--35" value="&lt;span style=&quot;font-size: 20px&quot;&gt;.&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="570" y="-1250" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--39" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="-1200" width="185" height="570" as="geometry" />
+          <mxGeometry x="475" y="-1240" width="185" height="600" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--42" value="&lt;span style=&quot;font-size: 20px&quot;&gt;失败后不会立即返回&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="467.5" y="-1260" width="200" height="20" as="geometry" />
+          <mxGeometry x="450" y="-1320" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--45" value="。。。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="-680" width="80" height="30" as="geometry" />
+          <mxGeometry x="220" y="-730" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--49" value="PACAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-1150" width="100" height="50" as="geometry" />
+          <mxGeometry x="517.5" y="-1150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--50" value="可信设备" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="-1070" width="100" height="50" as="geometry" />
+          <mxGeometry x="517.5" y="-1070" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--51" value="appId&lt;br&gt;userId&lt;br&gt;password&lt;br&gt;decryptedPassword&lt;br&gt;loginType" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="-1200" width="210" height="570" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--54" value="&lt;span style=&quot;font-size: 20px&quot;&gt;公共参数部分&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1015" y="-1260" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--55" value="requestJson:创建line时,将请求参数赋值给requestJson,供所有模块使用&lt;br&gt;&lt;br&gt;attributes公共参数部分：取出一部分请求参数作为公共参数使用，这些参数有APP_ID,userId,password,decryptedPassword,encryptedPassword,loginType.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;同时会存放部分handler 的执行结果，如pacas执行结果，可信设备执行结果&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;appId&amp;nbsp; :所有请求经过网关一定携带APP_ID请求头，多应用共用一套用户信息可使用一个APP_ID,如jzkApp,jzkNewcrm,jzkOperation 可使用同一个APP_ID,&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;如使用FLS_AUTH_INFO_+APP_ID+USER_ID 获取用户信息&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;userId&amp;nbsp; :um号&amp;nbsp; 所有请求必传userId参数&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;umInfo/&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;password :安全考虑，前端传参umInfo，handler之间以password变量名共享其值，返回加密后的密码供二次登录仍然以umInfo返回&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;decryptedPassword ：如公共参数中检查到NEED_RENEW的key，将返回一个新的加密密码。返回加密后的密码必须使用解密后的密码加密，同时附加loginType的值，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 所以返回新密码handler需要使用一定的前缀handler,如短信token校验，sessionToken校验，解密A，解密B ，其中解密A只能获取到解密后的密码，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; loginType需要在请求参数中传入。NEED_RENEW标记会在解密A固定添加，解密B视条件添加。返回新密码后会改变sessionToken的值,redis中key不变&lt;br&gt;&lt;/span&gt;encryptedpassword&amp;nbsp; :&amp;nbsp; &amp;nbsp;颁发sessionToken时会生成此参数,tail节点会检测公共参数部分是否存在此key,如果有，当applyResult响应码为2000时，包装在返回参数中返回&lt;br&gt;tokenHoldId&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;:&amp;nbsp; &amp;nbsp;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;创建token时会将此参数放入公共参数部分，用于后续存放redis操作&lt;br&gt;trusted&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;:&amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 同上，值有true,false&amp;nbsp; 标记是否为可信设备. 如在公共参数中发现此key，无条件在返回数据中添加此参数返回。仅在可信设备校验时添加此标记&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;loginType&amp;nbsp; ：&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;校验pacas时需要用到 ad为开机密码，um为um密码，默认为um密码，账号密码登录时需要手动传入&lt;br&gt;NEED_RENEW:&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;NEED_RENEW标记会在解密A固定添加，解密B视条件添加。返回新密码后会改变sessionToken的值,redis中key不变&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="267Y2HwvI8FolfL1eec--55" value="requestJson:创建line时,将请求参数赋值给requestJson,供所有模块使用&lt;br&gt;&lt;br&gt;attributes公共参数部分：取出一部分请求参数作为公共参数使用，这些参数有APP_ID,userId,password,decryptedPassword,encryptedPassword,loginType.&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;同时会存放部分handler 的执行结果，如pacas执行结果，可信设备执行结果&lt;br&gt;&lt;span style=&quot;text-align: center&quot;&gt;appId&amp;nbsp; :所有请求经过网关一定携带APP_ID请求头，多应用共用一套用户信息可使用一个APP_ID,如jzkApp,jzkNewcrm,jzkOperation 可使用同一个APP_ID,&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;如使用FLS_AUTH_INFO_+APP_ID+USER_ID 获取用户信息&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;userId&amp;nbsp; :um号&amp;nbsp; 所有请求必传userId参数&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;umInfo/&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;password :安全考虑，前端传参umInfo，handler之间以password变量名共享其值，返回加密后的密码供二次登录仍然以umInfo返回&lt;/span&gt;&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;decryptedPassword ：如公共参数中检查到NEED_RENEW的key，将返回一个新的加密密码。返回加密后的密码必须使用解密后的密码加密，同时附加loginType的值，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 所以返回新密码handler需要使用一定的前缀handler,如短信token校验，sessionToken校验，解密A，解密B ，其中解密A只能获取到解密后的密码，&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; loginType需要在请求参数中传入。NEED_RENEW标记会在解密A固定添加，解密B视条件添加。返回新密码后会改变sessionToken的值,redis中key不变&lt;br&gt;&lt;/span&gt;encryptedpassword&amp;nbsp; :&amp;nbsp; &amp;nbsp;颁发 Token时会生成此参数,tail节点会检测公共参数部分是否存在此key,如果有，无条件在返回数据中添加此参数返回&lt;br&gt;tokenHoldId&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;:&amp;nbsp; &amp;nbsp;&lt;span&gt;	&lt;/span&gt;创建token时会将此参数放入公共参数部分，用于后续存放redis操作&lt;br&gt;trusted&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;:&amp;nbsp; &lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 同上，值有true,false&amp;nbsp; 标记是否为可信设备. 如在公共参数中发现此key，无条件在返回数据中添加此参数返回。仅在可信设备校验时添加此标记&lt;br style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;loginType&amp;nbsp; ：&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;校验pacas时需要用到 ad为开机密码，um为um密码，默认为um密码，账号密码登录时需要手动传入&lt;br&gt;NEED_RENEW:&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;NEED_RENEW标记会在解密A固定添加，解密B视条件添加。返回新密码后会改变sessionToken的值,redis中key不变&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="-480" y="-30" width="950" height="270" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--59" value="&lt;font style=&quot;font-size: 20px&quot;&gt;请求&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
@@ -490,44 +481,126 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--214" value="&lt;span style=&quot;text-align: center&quot;&gt;token构成: app_id&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; user_id&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type:APP,USER,NOTE&lt;/span&gt;&lt;/blockquote&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; gift : 存放encryptedPassword,可为空&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tokenHoldId:时间戳&lt;br&gt;redis 存放逻辑：info:&lt;span&gt;	&lt;/span&gt;FLS_AUTH_INFO_+APP_ID+USER_ID:&amp;nbsp; 用户信息，每次&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;触发jzkApp/jzkWeb操作即真正获取用户信息时，不失败时将此value更新&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp; outer :&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;FLS_AUTH_+APP_ID+USER_ID+时间戳&amp;nbsp;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp; :&amp;nbsp; headers + ip&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;inner:&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;FLS_AUTH_INNER_+APP_ID+USER_ID+时间戳&amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; Y&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;cache:&amp;nbsp; &amp;nbsp;FLS_AUTH_+APP_ID_+USER_ID_CACHE (set结构)&amp;nbsp; &amp;nbsp;：存储所有发放过的token key值&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; logined:&amp;nbsp; FLS_AUTH_+APP_ID_+&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;日期格式(20210629) (zset结构) ：score为时间戳，&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;触发jzkApp/jzkWeb操作即真正获取用户信息时，不失败时向公共参数 &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;attributes中添加&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;SADD_FLAG标记，TAIL节点在检测到此标记，zadd token key&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;sessionToken发放逻辑: 非免登录会直接发放信息的token信息，如过触发密码更新，免登录时也会重新发放token。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; 如果颁发sessionToken时，携带了GWT token,且token type为USER类型，从cache中移除，logined中移除，del key ;set newKey,sadd newKey,zass newKey&lt;br&gt;innerToken: 网关发现进入关键性页面时，提取 token中的tokenHoldId,拼接inner token规则，redis中无则提醒登录，有则inner，outer token一起续期&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="267Y2HwvI8FolfL1eec--214" value="&lt;span style=&quot;text-align: center&quot;&gt;token构成: app_id&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;/span&gt;&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; user_id&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; type:APP,USER,NOTE&lt;/span&gt;&lt;/blockquote&gt;&lt;span style=&quot;text-align: center&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; gift : 存放encryptedPassword,可为空&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; tokenHoldId:时间戳&lt;br&gt;redis 存放逻辑：info:&lt;span&gt;	&lt;/span&gt;FLS_AUTH_INFO_+APP_ID+USER_ID:&amp;nbsp; 用户信息，每次&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;触发jzkApp/jzkWeb操作即真正获取用户信息时，&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;向公共参数&amp;nbsp;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;attributes中添加&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;REFRESH_FLAG标&lt;br&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp;记，TAIL节点在检测到此标记，从applyResult中获取用户信息，更新redis&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp; &lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;&amp;nbsp; outer :&amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;FLS_AUTH_+APP_ID+USER_ID+时间戳&amp;nbsp;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp;&amp;nbsp; :&amp;nbsp; headers + ip&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;inner:&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;FLS_AUTH_INNER_+APP_ID+USER_ID+时间戳&amp;nbsp; &amp;nbsp; &amp;nbsp; :&amp;nbsp; Y&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;cache:&amp;nbsp; &amp;nbsp;FLS_AUTH_+APP_ID_+USER_ID_CACHE (set结构)&amp;nbsp; &amp;nbsp;：存储所有发放过的token key值&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; logined:&amp;nbsp; FLS_AUTH_+APP_ID_+&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;日期格式(20210629) (zset结构) ：score为时间戳，&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;触发jzkApp/jzkWeb操作即真正获取用户信息时，向公共参数 &lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;attributes中添加&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;SADD_FLAG标记，TAIL节点在检测到此标记，zadd token key&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;br&gt;sessionToken发放逻辑: 非免登录会直接发放信息的token信息，如过触发密码更新，免登录时也会重新发放token。&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;text-align: center&quot;&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&lt;span&gt;	&lt;/span&gt;&amp;nbsp; &amp;nbsp; 如果颁发sessionToken时，携带了GWT token,且token type为USER类型，从cache中移除，logined中移除，del key ;set newKey,sadd newKey,zadd newKey&lt;br&gt;innerToken: 网关发现进入关键性页面时，提取 token中的tokenHoldId,拼接inner token规则，redis中无则提醒登录，有则inner，outer token一起续期&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="550" y="-30" width="955" height="270" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--216" target="267Y2HwvI8FolfL1eec--217">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--216" value="解密A" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="270" width="90" height="40" as="geometry" />
+          <mxGeometry x="-390" y="350" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--217" value="提取解密后的密码，以decryptedPassword存入attirbutes,requestJson,固定向attributes中添加NEED_RENEW标记&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="260" width="635" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--221" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--222" target="267Y2HwvI8FolfL1eec--223">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-215" y="340" width="635" height="60" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--222" value="解密B" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="-390" y="420" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--223" value="提取解密后的密码，以decryptedPassword存入attirbutes,requestJson, 提取loginType,存入attirbutes,requestJson，必要时向attributes中添加NEED_RENEW标记" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="330" width="635" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--225" target="267Y2HwvI8FolfL1eec--226">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="267Y2HwvI8FolfL1eec--224" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--225">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-215" y="510" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--225" value="noteToken校验" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="410" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--226" value="提取解密后的密码，以decryptedPassword存入attirbutes,requestJson, 提取loginType,存入attirbutes,requestJson" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="400" width="635" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--227" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--228" target="267Y2HwvI8FolfL1eec--229">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="-390" y="490" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="267Y2HwvI8FolfL1eec--228" value="sessionToken校验" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="-390" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="-390" y="560" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="267Y2HwvI8FolfL1eec--229" value="提取解密后的密码，以decryptedPassword存入attirbutes,requestJson, 提取loginType,存入attirbutes,requestJson" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-215" y="470" width="635" height="60" as="geometry" />
+        <mxCell id="267Y2HwvI8FolfL1eec--229" value="提取解密后的密码，以decryptedPassword存入attirbutes,requestJson,必要时向attributes中添加NEED_RENEW标记，&lt;br&gt;提取loginType,如果requestJson中无loginType,将loginType存入attirbutes,requestJson,如果有，从requestJson中取出，复制一份至attributes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="470" width="635" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--230" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--222" target="267Y2HwvI8FolfL1eec--229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-230" y="460" as="sourcePoint" />
+            <mxPoint x="-180" y="410" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="440" />
+              <mxPoint x="-250" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--231" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--228" target="267Y2HwvI8FolfL1eec--229">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-250" y="610" as="sourcePoint" />
+            <mxPoint x="-200" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-250" y="580" />
+              <mxPoint x="-250" y="533" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--233" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--234" target="267Y2HwvI8FolfL1eec--235">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--234" value="noteToken发放" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="700" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--235" value="由decrypedPassword+loginType加密得出encryptedPassword，存入attibutes,reponse中放入type为note的token，token中gift为encryptedPassword，token有效期为30min" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="690" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--237" target="267Y2HwvI8FolfL1eec--238">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--237" value="JzkParamsExtract" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--238" value="提取userId/um,password/umInfo,appId，存放至requestJson,attributes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="260" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--239" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--240" target="267Y2HwvI8FolfL1eec--241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--240" value="tail" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="1030" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--241" value="获取applyResult的data(为空就创建)，如果attributes中trusted存在，往data中添加trusted，如果attributes中有encryptedPassword，往data中添加encryptedPassword,返回applyResult至前端,如果有REFRESH_FLAG,刷新redis用户数据，如果有SADD_FLAG,更新今日登录时间,如果attributes中无tokenHoldId，从token中获取" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="1020" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--242" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--243" target="267Y2HwvI8FolfL1eec--244">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--243" value="可信设备" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="620" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--244" value="将trusted标记存入attributes" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="610" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--245" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--246" target="267Y2HwvI8FolfL1eec--247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--246" value="sessionToken发放" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="865" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--247" value="在condition 需要发放新密码中执行，由decrypedPassword+loginType加密得出encryptedPassword，存入attibutes,reponse中放入type为USER的token，token中gift为encryptedPassword，token有效期由redis判断，将生成tokenHoldId放入attributes&lt;br&gt;redis操作： 存放outer,cache类型token" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="850" width="635" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--248" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--249" target="267Y2HwvI8FolfL1eec--250">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--249" value="jzkApp/jzkWeb" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="780" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--250" value="获取真正的用户信息，如果失败直接返回，如果成功，将返回结果存入applyResult,往attributes添加REFRESH_FLAG,SADD_FLAG,提醒TAIL节点需要更新用户信息和记录今日最新登录时间" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="770" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--251" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="267Y2HwvI8FolfL1eec--252" target="267Y2HwvI8FolfL1eec--253">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--252" value="内部token续期" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-390" y="950" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--253" value="从attributes中获取tokenHoldId,拼接inner token规则，redis续期" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215" y="940" width="635" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--254" value="删除手势" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="-810" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--256" value="需要发放新密码" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-910" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="267Y2HwvI8FolfL1eec--257" value="logOut" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="-730" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
